@@ -1,4 +1,8 @@
 streamlit
 pandas
-scikit-learn
 numpy
+xgboost
+shap
+matplotlib
+scikit-learn
+plotly
